@@ -1,4 +1,6 @@
-# calculator
+# Calculadora Em VueJS
+
+![](calculator.jpg)
 
 ## Project setup
 ```
